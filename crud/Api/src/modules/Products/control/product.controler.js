@@ -30,7 +30,7 @@ export const addProduct = (req,res)=>{
     })
         }
     })
-
+    
  }
 //--end add new product--//
 
